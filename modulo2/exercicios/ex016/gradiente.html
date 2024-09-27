@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gradiente em CSS</title>
+    <style>
+        @font-face {
+        font-family: 'Adidas';
+        src: url(/fff_world_cup_2018_adidas.ttf) format(truetype);
+        font-weight: normal;
+        font-style: normal;}
+
+        {height: 100%}
+        body{
+            background-image: linear-gradient(to bottom, #BF0615, #0D0D0D 80%);
+            background-attachment: fixed;
+        }
+        .imagem-flamengo {
+            width: 50%;
+            height: auto;
+        }
+        .flamengo {
+            font-family: Adidas;
+            font-size: 50pt;
+            color: white;
+            width:50%;
+            text-shadow: 5px 5px 0px black;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <h1>Testando Gradiente</h1>
+        <br>
+        <h2>EXEMPLO:</h2>
+        <br>
+        <h1 class="flamengo">F L A M E N G O <br> 2 0 1 9</h1>
+        <img src="/flamengo.png" alt="flamengo" class="imagem-flamengo">
+    </center>
+</body>
+</html>

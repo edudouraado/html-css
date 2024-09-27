@@ -1,0 +1,15 @@
+Para adicionar símbolos: https://www.w3schools.com/charsets/ref_utf_symbols.asp
+
+para adicionar emoji: emojipedia.org
+
+para encontrar imagens de domínio público: UnSplash; Pexels; FreedPik; entre outros
+(formato para logo(fundo transparente) - PNG, formato para imagem(qualidade) - JPG)
+
+para achar ícone de página: https://www.iconarchive.com
+para desenhar ícone: https://www.favicon.cc
+para gerar ícone de varios formatos: https://favicon.io
+
+para ver a paleta de cor: https://color.adobe.com/pt/create/color-wheel
+
+para ter fontes online: https://fonts.google.com
+como descorbir uma fonte em uma imagem: https://www.myfonts.com/pages/whatthefont
